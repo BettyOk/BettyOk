@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BettyOk
 - 👀 I’m interested in Software Quality Assurance
-- 🌱 I’m currently learning Test Automation
+- 🌱 I’m currently getting better at Test Automation
 - 💞️ I’m looking to collaborate on Software Testing
 - 📫 How to reach me okwedadi@gmail.com or https://www.linkedin.com/in/bettyokwedadi
 - 😄 Pronouns: She/Her
