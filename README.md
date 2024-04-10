@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Quality Assurance
 - 🌱 I’m currently learning Test Automation
 - 💞️ I’m looking to collaborate on Software Testing
-- 📫 How to reach me okwedadi@gmail.com
+- 📫 How to reach me okwedadi@gmail.com or https://www.linkedin.com/in/bettyokwedadi
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I hope to be on a time travel testing project one day.
 
