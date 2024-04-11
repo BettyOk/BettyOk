@@ -16,7 +16,7 @@
 
 <div align="center">
  
- 👀 I’m interested in **Software Quality Engineer**
+ 👀 I’m interested in **Software Quality Engineering**
  
  🌱 I’m currently getting better at **Test Automation**
  
