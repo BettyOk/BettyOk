@@ -12,7 +12,6 @@
   </a>
      <a href="https://bit.ly/mycv_bettyo" target="_blank" style="color: white;">
     <img src="https://img.icons8.com/material-two-tone/24/FFFFFF/resume.png"/>
-    CV
 </a>
 </div>
 
