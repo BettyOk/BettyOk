@@ -16,17 +16,15 @@
 
 <div align="left">
  
- 👀 I’m interested in **Software Quality Engineering**
+ 👀 I’m interested in **Software Quality Assurance Engineering Roles**
  
- 🌱 I’m currently getting better at **Test Automation**
- 
- 💞️ I’m looking to collaborate on **Software Testing**
- 
+ 🌱 I’m currently getting better at **Setting up Test Automation frameworks**
+
+ 💞️ Fun fact: **I hope to be on a time-travel testing project one day.**
+  
  📫 How to reach me: **okwedadi@gmail.com** or [LinkedIn](https://www.linkedin.com/in/bettyokwedadi)
  
- 😄 Pronouns: **She/Her**
- 
- ⚡ Fun fact: **I hope to be on a time travel testing project one day.**
+
 
  </div>
  
@@ -64,11 +62,11 @@
 
 <h2 align="left">📚 Education 📚</h2>
 
-#### - MSc in International Project Management/HR – IGR-IAE (Université de Rennes 1), Franceb 2022
+#### - MSc in International Project Management/HR – IGR-IAE (Université de Rennes 1), France (2022)
 
-#### - MBA (Specialization: Information Systems & Operations Strategy) – Pan-Atlantic University, Nigerian 2015
+#### - MBA (Specialization: Information Systems & Operations Strategy) – Pan-Atlantic University (2015)
 
-#### - BSc in Computer Science – Imo State University, Nigeria 
+#### - BSc in Computer Science – Imo State University 
 
 <h2 align="left">📊 GitHub Stats 📊</h2>
 
