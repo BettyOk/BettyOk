@@ -52,7 +52,7 @@
 - User Training and Support: Providing staff training on Workday functionalities, ensuring proficient system use.  
 - Change Management, Collaboration and issues resolution: Ensuring smooth transitions across 90+ countries by collaborating with teams and stakeholders to identify bottlenecks, resolve them and ensure Workday software alignment with organizational goals.  
 
-### Quality Assurance Tester 🧪 Lagos, Nigeria 🇳🇬  
+### Quality Assurance Tester 🧪  
 #### Softiris Africa (IT Software Start-Up Company/ 50 Staff) 🚀 2019 - 2021  
 - Conducted manual tests on web and mobile applications to ensure functionality, usability, and cross-browser compatibility.  
 - Developed detailed test cases aligned with project requirements and specifications, managed efficiently using Jira and Zephyr Scale.  
