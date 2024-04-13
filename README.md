@@ -1,6 +1,8 @@
-<h1 align="left">👋 Hello, I'm Betty Okwedadi</h1>
-<h3 align="left">Software Quality Assurance Engineer</h3>
+<h1 style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Betty+Okwedadi!;" />
+</h1>
 
+<h3 align="left">Software Quality Assurance Engineer</h3>
 
 
 <div align="left"> 
