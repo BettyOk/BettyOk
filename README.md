@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=python,java,javascript,html,mysql,selenium,github,vscode" /><br>
 </div>
 
-<h2 align="left">💼 Work Experience [3.5 years] 💼</h2>
+<h2 align="left">💼 Work Experience [3 years] 💼</h2>
 
 ### Software Quality Assurance Engineer 👩‍💻 Paris, France 🇫🇷
 #### Beeyou Consulting (IT Services/ 100 Staff) 💼 2023 – till date  
