@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/bettyokwedadi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="(https://bit.ly/resume_bettyo)" target="_blank">
+  <a href="https://bit.ly/resume_bettyo" target="_blank">
     <img src="https://img.shields.io/badge/Curriculum Vitae-White?style=for-the-badge&logo=genius&logoColor=white" target="_blank"/>
     </a>
  </div>
