@@ -42,34 +42,20 @@
 
 ### Software Quality Assurance Engineer 👩‍💻 Paris, France 🇫🇷
 #### Beeyou Consulting (IT Services/ 100 Staff) 💼 2023 – till date  
-- Automated testing using Selenium, Katalon, and Postman, covering web and API functionalities comprehensively.  
-- Developed with the team, robust test cases in Java, Python ensuring usability, functionality, and compatibility across platforms.  
-- Conducted manual testing, utilizing Zephyr Scale for management and collaborated with cross-functional teams using Jira, Slack, etc.  
-- Conducted performance testing with BlazeMeter and Apache JMeter, identified bottlenecks, and optimized system performance  
-- Other Responsibilities: Managing Technical Talent Sourcing, Recruitment, Onboarding, Training, Team Performance (Scrum).  
 
 ### Change Management Intern 🔄 Paris, France 🇫🇷  
 #### Renault Group, France (Automobile/ 171,000 Staff) 🚗 2022  
-- System Testing and Process Optimization: Conducting comprehensive Workday testing to improve process and performance.  
-- User Training and Support: Providing staff training on Workday functionalities, ensuring proficient system use.  
-- Change Management, Collaboration and issues resolution: Ensuring smooth transitions across 90+ countries by collaborating with teams and stakeholders to identify bottlenecks, resolve them and ensure Workday software alignment with organizational goals.  
 
 ### Quality Assurance Tester 🧪  
 #### Softiris Africa (IT Software Start-Up Company/ 50 Staff) 🚀 2019 - 2021  
-- Conducted manual tests on web and mobile applications to ensure functionality, usability, and cross-browser compatibility.  
-- Developed detailed test cases aligned with project requirements and specifications, managed efficiently using Jira and Zephyr Scale.  
-- Maintained documentation of test results, including reports on test execution, defects, and coverage, using Bitbucket for version control.  
-- Collaborated with cross-functional teams to identify and resolve defects promptly, using Jira for issue tracking and management.  
-- Non-Project Responsibilities: Managing end-to-end HR functions including Technical Recruitment, Talent and Performance Management, Training, Project Management, Compensation, and Employee Relations using HR Information Systems.
-
 
 <br/>
 
 <h2 align="left">📚 Education 📚</h2>
 
-#### - MSc in International Project Management/HR – IGR-IAE (Université de Rennes 1), France (2022)
+#### - Certificate in Software Test Automation (JavaScript Path) – Test Automation University
 
-#### - MBA (Specialization: Information Systems & Operations Strategy) – Pan-Atlantic University (2015)
+#### - MSc in International Project Management/HR – IGR-IAE (Université de Rennes 1)
 
 #### - BSc in Computer Science – Imo State University 
 
