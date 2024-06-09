@@ -38,28 +38,7 @@
     <img src="https://skillicons.dev/icons?i=python,java,javascript,html,mysql,selenium,github,vscode" /><br>
 </div>
 
-<h2 align="left">💼 Work Experience [3 years] 💼</h2>
 
-### Software Quality Assurance Engineer 👩‍💻 Paris, France 🇫🇷
-#### Beeyou Consulting (IT Services/ 100 Staff) 💼 2023 – till date  
-
-### Change Management Intern 🔄 Paris, France 🇫🇷  
-#### Renault Group, France (Automobile/ 171,000 Staff) 🚗 2022  
-
-### Quality Assurance Tester 🧪  
-#### Softiris Africa (IT Software Start-Up Company/ 50 Staff) 🚀 2019 - 2021  
-
-<br/>
-
-<h2 align="left">📚 Education 📚</h2>
-
-#### - Certificate in Software Test Automation (JavaScript Path) – Test Automation University
-
-#### - MSc in International Project Management/HR – IGR-IAE (Université de Rennes 1)
-
-#### - BSc in Computer Science – Imo State University 
-
-<h2 align="left">📊 GitHub Stats 📊</h2>
 
 ![Betty Ok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BettyOk&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BettyOk&show_icons=true&theme=radical)
