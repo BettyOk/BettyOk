@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Betty+Okwedadi!;Your+Software+Quality+Assurance+Alchemist!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Betty+Okwedadi!;Your+QA+Alchemist!;" />
 </h1>
 
 <h3 align="left">Software Quality Assurance Engineer</h3>
