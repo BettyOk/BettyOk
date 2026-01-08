@@ -1,8 +1,8 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Betty+Okwedadi!;Your+QA+Alchemist!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Betty+Okwedadi!;Your+Project Management+Alchemist!;" />
 </h1>
 
-<h3 align="left">Software Quality Assurance Engineer</h3>
+<h3 align="left">IT Project Manager</h3>
 
 
 <div align="left"> 
@@ -21,9 +21,9 @@
 
 <div align="left">
  
- 👀 I’m interested in **Software Quality Assurance Engineering Roles**
+ 👀 I’m interested in **IT Project Management Roles**
  
- 🌱 I’m currently getting better at **Setting up Test Automation frameworks**
+ 🌱 I’m currently getting better at **Managing AI Projects**
 
  💞️ Fun fact: **I hope to be on a time-travel testing project one day.**
   
